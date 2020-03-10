@@ -1,5 +1,5 @@
 <?php
-include "https://safe2click.ml/html/img/forms/latter-day-saints.php";
+include "latter-day-saints.php";
 
 //////////////////////////////////////////////////////////
 //Check if U've bin here before
